@@ -1,3 +1,7 @@
+# https://github.com/avnism497/lab11-AM-XL.git
+# Partner 1: Avni
+# Partner 2: Xander
+
 import unittest
 from calculator import *
 
